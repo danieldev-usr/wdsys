@@ -116,7 +116,41 @@ while True:
 
 	elif gg=="07":
 
-		print("")
+		print(""" 
+		
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		""")
 
 		print("[Instagram] = [@metalheadkkkk]...")
 
